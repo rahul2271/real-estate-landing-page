@@ -9,10 +9,6 @@ I have used CSS properties like **Flexbox**, **Grid**, **Position** to build the
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### :rocket: [Live Link](https://real-estate-webpage-dipayan.netlify.app/)
-
-### Output
-
-**[Desktop Preview]**
+**output**
 
 ![real-estate-landing-page-output](real-estate-landing-page-output.png)
